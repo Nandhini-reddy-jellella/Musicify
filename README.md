@@ -1,6 +1,6 @@
-## 🎵 SpotifyClone 
+## 🎵 Musicify
 
-SpotifyClone is a simple web-based music player interface inspired by Spotify, built using HTML and CSS. 
+Musicify is a simple web-based music player interface inspired by Spotify, built using HTML and CSS. 
 
 ## 📌 Features 
 -  Responsive UI with a sidebar, main content area, and a fixed music player.
