@@ -17,11 +17,11 @@ Musicify is a simple web-based music player interface inspired by Spotify, built
 🎶 Follow these steps to get started:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Harshniii/SpotifyClone.git
+   https://github.com/Nandhini-reddy-jellella/Musicify.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd SpotifyClone
+   cd Musicify
    ```
 3. Open `index.html` in a browser to view the project. 
 
